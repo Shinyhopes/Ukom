@@ -1,0 +1,44 @@
+body {
+  background: #808080; /* abu-abu */
+  font-family: sans-serif;
+}
+
+h2 {
+  color: #d3d3d3; /* abu-abu terang */
+}
+
+.login {
+  padding: 1em;
+  margin: 2em auto;
+  width: 17em;
+  background: #d3d3d3; /* abu-abu terang */
+  border-radius: 3px;
+}
+
+ul {
+  background-color: #a9a9a9; /* abu-abu gelap */
+}
+
+label {
+  font-size: 10pt;
+  color: #555; /* tetap sama */
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+  padding: 8px;
+  width: 95%;
+  background: #efefef; /* tetap sama */
+  border: 0;
+  font-size: 10pt;
+  margin: 6px 0px;
+}
+
+.tombol {
+  background: #808080; /* abu-abu */
+  color: #fff;
+  border: 0;
+  padding: 5px 8px;
+  margin: 20px 0px;
+}

@@ -1,0 +1,8 @@
+#myTable_wrapper {
+  overflow-x: auto;
+}
+
+#myTable {
+  max-width: 100%;
+  width: 100%;
+}
